@@ -1,5 +1,5 @@
 # PYTHON-STUDY-PLANNER-
-# VITyarthi Smart Study Planner
+
 
 ## 📌 Description
 A Python-based CLI app that helps students manage tasks, track study hours, and get smart study suggestions.
